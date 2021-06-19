@@ -1,3 +1,15 @@
+Building videochat application from Scratch Using React (Custom Hooks, Context API, socket.io,peerjs).
+
+A videochat app was built using React (Custom Hooks, Context API) & socket.io,peerjs.I have used material ui for making it responsive on all devices.You have to simply copy your id which is unique on everytime and just call.It also has call ended function.
+
+
+video chats page
+
+![image](https://user-images.githubusercontent.com/34640475/122641273-e0c40200-d121-11eb-9965-b8652e65e171.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
